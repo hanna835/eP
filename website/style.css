@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:brown;
+    margin: 0;
+    font-weight: 300;
+}
+
+ul {
+    list-style: none;
+  }
+  
+  li {
+    display: inline-block;
+    margin-right: 10px; /* add spacing between items */
+  }
+
+nav{
+    float:right;
+}
+
+
+
+
+
