@@ -6,22 +6,22 @@ body{
     color:aliceblue;
 }
 
-
+/*style logo*/
 #logo{
   float:left;
   padding:1px;
   overflow:hidden;
-  background-color: rgb(124, 103, 200);
+  background-color: rgb(124, 103, 200); 
 
 }
 
-
+/*style list elements*/
 ul {
     list-style: none;
     margin-top:0;
     padding: 10px;
     overflow: hidden;
-    background-color: rgb(124, 103, 200);
+    background-color: rgb(124, 103, 200); 
     
 
   }
@@ -41,19 +41,20 @@ ul {
   }
 
   li a:hover{
-    background-color: #f49f00
+    background-color: #f49f00 
   }
 
 .container{
 
   
   width:100%;
-  /*overflow:hidden;*/
+ 
   
   
 
 }
 
+/*style box elements*/
 .box{
  
   
